@@ -1,0 +1,488 @@
+"MAIN_SELECT_LANGUAGE";"Выберите язык, чтобы начать бронирование";"Select a language to start booking";"选择一种语言，开始预订"
+"DATE_PICKER_ARRIVAL_DATE";"Дата заезда";"Check-in date";"报到日期"
+"DATE_PICKER_ARRIVAL_TIME";"Время заезда";"Check-in time";"报到时间"
+"DATE_PICKER_RENT_HOURS";"Кол-во часов";"Number of hours";"小时数"
+"DATE_PICKER_CHOOSE_DATE";"Выберите дату";"Select a date";"选择一个日期"
+"DATE_PICKER_CHOOSE";"Выбрать";"Select";"选择"
+"DATE_PICKER_CHOOSE_TIME";"Выберите время";"Choose a time";"选择一个时间"
+"DATE_PICKER_CHOOSE_APPLY";"Применить";"Apply";"申请"
+"DATE_PICKER_CHOOSE_RESET";"Сбросить";"Reset";"复位"
+"DATE_PICKER_SEARCH";"Поиск";"Search";"搜索"
+"FOOTER_YOUR_BOOKING";"Ваше бронирование";"Your reservation";"您的预订"
+"FOOTER_PLACE_ORDER";"Оформить заказ";"Place an order";"下订单"
+"ADD_TO_BASKET";"В корзину";"To cart";"至购物车"
+"BOOKING_TITLE";"Оформление бронирования";"Making reservations";"进行预约"
+"PERSONAL_INFO_BLOCK_HEADING";"Персональная информация";"Personal information";"个人资料"
+"PERSONAL_INFO_BLOCK_LABEL";"Укажите фамилию, имя и контактные данные человека, оплачивающего заказ";"Enter the name and contact information of the person paying for the order";"输入支付订单的人的姓名和联系信息"
+"PERSONAL_INFO_NAME_LABEL";"Имя";"Name";"命名"
+"PERSONAL_INFO_SURNAME_LABEL";"Фамилия";"Surname";"姓氏"
+"PERSONAL_INFO_BIRTHDATE_LABEL";"Дата рождения";"Date of birth";"出生日期"
+"PERSONAL_INFO_PHONE_LABEL";"Телефон";"Phone";"电话"
+"PERSONAL_INFO_EMAIL_LABEL";"Email";"Email";"电子邮件"
+"PERSONAL_INFO_FZ_TEXT";"Предоставляя свои персональные данные, я даю согласие на обработку, хранение и использование своих персональных данных на основании ";"By providing my personal data, I consent to the processing, storage and use of my personal data on the basis of ";"通过提供我的个人数据，我同意在以下基础上处理、储存和使用我的个人数据 "
+"PERSONAL_INFO_FZ_LINK_TEXT";"ФЗ № 152-ФЗ «О персональных данных» от 27.07.2006 г.";"Federal Law No. 152-FZ ""On Personal Data"" of 27.07.2006.";"2006年7月27日第152-FZ号 ""关于个人数据 ""的联邦法律。"
+"PERSONAL_INFO_FZ_LINK_ADDRESS";"https://google.com";"????";
+"BOOKING_PAYMENT_BLOCK_TITLE";"Оплата бронирования";"Payment for booking";"预订付款"
+"BACK_TO_SEARCH";"Вернуться к выбору";"Back to Selection";"返回到选择"
+"PLACE_BOOKING";"Забронировать";"Book";"书籍"
+"PLACE_ORDER";"Оформить заказ";"Place an order";"下订单"
+"BASKET";"Корзина";"Basket";"篮子"
+"BASKET_TOTAL";"Итоговая сумма";"Total amount";"总金额"
+"PAYMENT_TITLE";"Оплата бронирования";"Payment for booking";"预订付款"
+"PAYMENT_COUNT";"Всего капсул";"Total capsules";"总胶囊数"
+"PAYMENT_DATE";"Дата";"Date";"日期"
+"PAYMENT_TIME";"Время";"Time";"时间"
+"PAYMENT_SUM";"Сумма к оплате";"Amount due";"应付金额"
+"PAYMENT_TIP";"Для оплаты бронирования поднесите карточку к терминалу рядом с экраном";"To pay for the reservation, put your card to the terminal next to the screen";"要支付预订费用，请将您的卡放在屏幕旁边的终端上。"
+"PAYMENT_SUCCESS";"Спасибо, ваше бронирование успешно оплачено";"Thank you, your reservation has been successfully paid";"谢谢你，你的预订已经成功支付"
+"PAYMENT_PRINT_TIP";"Вы можете распечатать детали заказа и QR-коды доступа на принтере под терминалом";"You can print order details and QR access codes on the printer under the terminal";"您可以在终端下的打印机上打印订单详情和QR访问代码"
+"PAYMENT_PRINT_BUTTON";"Распечатать";"Print";"印刷品"
+"PAYMENT_EMAIL_TIP";"Электронный ключ отправлен вам на почту";"The electronic key was sent to your email";"电子钥匙已发送至您的邮箱"
+"PAYMENT_NO_INTERNET_TIP";"Eсли у вас нет мобильного телефона с доступом в интернет то обратитесь, пожалуйста, к администратору для получения ключа";"If you do not have a cell phone with internet access, please contact the administrator to get the key";"如果你没有可以上网的手机，请联系管理员获取钥匙。"
+"BACK_TO_MAIN";"Вернуть на главную";"Back to the main page";"返回主页面"
+"CLOSE_SESSION";"Завершить сессию";"End the session";"结束会议"
+"PAYMENT_ERROR_HEADING";"Произошла ошибка";"There was an error";"出现了一个错误"
+"PAYMENT_ERROR_TIP";"Произошла ошибка. Попробуйте оплатить бронирование еще раз. Если ошибка не пропадет, начните оформление заново";"There was an error. Try to pay again. If the error persists, start again";"出现了一个错误。试着重新支付。如果错误持续存在，请重新开始"
+"PAYMENT_ERROR_REPEAT";"Повторить оплату";"Repeat payment";"重复支付"
+"PRINT_ERROR";"Ошибка печати. Пожалуйста, повторите.";"Printing error. Please try again.";"打印错误。请再试一次。"
+"PRINT_ERROR_CONTACT_US";"Пожалуйста, свяжитесь с нашим сотрудником по телефону +7 910 487 0225";"Please contact technical support at +7 910 487 0225";"请联系技术支持：+7 910 487 0225"
+"BOOKING_NAME_ERROR";"Введите имя";"Enter name";"输入名称"
+"BOOKING_SURNAME_ERROR";"Введите фамилию";"Enter surname";"输入姓氏 "
+"BOOKING_PHONE_ERROR";"Введите номер телефона";"Enter phone number";"输入电话号码 "
+"BOOKING_INCORRECT_EMAIL_ERROR";"Введите корректный e-mail";"Enter valid e-mail";"请输入有效电子邮件 "
+"BOOKING_EMAIL_ERROR";"Введите e-mail";"Enter e-mail";"输入电子邮件 "
+"BOOKING_MANDATORY_FIELD_ERROR";"Обязательное поле";"Mandatory field";"必填字段 "
+"BOOKING_CHOOSE_OPTION_ERROR";"Выберите один из вариантов";"Choose one of the options";"选择其中一个选项 "
+"FZ_TEXT";"Политика в отношении обработки персональных данных
+
+1. Общие положения
+Настоящая политика обработки персональных данных составлена в соответствии с требованиями Федерального закона от 27.07.2006. №152-ФЗ «О персональных данных» (далее - Закон о персональных данных) и определяет порядок обработки персональных данных и меры по обеспечению безопасности персональных данных, предпринимаемые ООО «Концепция отдыха ДМЕ» (далее – Оператор).
+1.1. Оператор ставит своей важнейшей целью и условием осуществления своей деятельности соблюдение прав и свобод человека и гражданина при обработке его персональных данных, в том числе защиты прав на неприкосновенность частной жизни, личную и семейную тайну.
+1.2. Настоящая политика Оператора в отношении обработки персональных данных (далее – Политика) применяется ко всей информации, которую Оператор может получить о посетителях веб-сайта https://gettsleep.com.
+
+
+
+2. Основные понятия, используемые в Политике
+2.1. Автоматизированная обработка персональных данных – обработка персональных данных с помощью средств вычислительной техники.
+2.2. Блокирование персональных данных – временное прекращение обработки персональных данных (за исключением случаев, если обработка необходима для уточнения персональных данных).
+2.3. Веб-сайт – совокупность графических и информационных материалов, а также программ для ЭВМ и баз данных, обеспечивающих их доступность в сети интернет по сетевому адресу https://gettsleep.com.
+2.4. Информационная система персональных данных — совокупность содержащихся в базах данных персональных данных, и обеспечивающих их обработку информационных технологий и технических средств.
+2.5. Обезличивание персональных данных — действия, в результате которых невозможно определить без использования дополнительной информации принадлежность персональных данных конкретному Пользователю или иному субъекту персональных данных.
+2.6. Обработка персональных данных – любое действие (операция) или совокупность действий (операций), совершаемых с использованием средств автоматизации или без использования таких средств с персональными данными, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (распространение, предоставление, доступ), обезличивание, блокирование, удаление, уничтожение персональных данных.
+2.7. Оператор – государственный орган, муниципальный орган, юридическое или физическое лицо, самостоятельно или совместно с другими лицами организующие и (или) осуществляющие обработку персональных данных, а также определяющие цели обработки персональных данных, состав персональных данных, подлежащих обработке, действия (операции), совершаемые с персональными данными.
+2.8. Персональные данные – любая информация, относящаяся прямо или косвенно к определенному или определяемому Пользователю веб-сайта https://gettsleep.com.
+2.9. Персональные данные, разрешенные субъектом персональных данных для распространения, - персональные данные, доступ неограниченного круга лиц к которым предоставлен субъектом персональных данных путем дачи согласия на обработку персональных данных, разрешенных субъектом персональных данных для распространения в порядке, предусмотренном Законом о персональных данных (далее - персональные данные, разрешенные для распространения).
+2.10. Пользователь – любой посетитель веб-сайта https://gettsleep.com.
+2.11. Предоставление персональных данных – действия, направленные на раскрытие персональных данных определенному лицу или определенному кругу лиц.
+2.12. Распространение персональных данных – любые действия, направленные на раскрытие персональных данных неопределенному кругу лиц (передача персональных данных) или на ознакомление с персональными данными неограниченного круга лиц, в том числе обнародование персональных данных в средствах массовой информации, размещение в информационно-телекоммуникационных сетях или предоставление доступа к персональным данным каким-либо иным способом.
+2.13. Трансграничная передача персональных данных – передача персональных данных на территорию иностранного государства органу власти иностранного государства, иностранному физическому или иностранному юридическому лицу.
+2.14. Уничтожение персональных данных – любые действия, в результате которых персональные данные уничтожаются безвозвратно с невозможностью дальнейшего восстановления содержания персональных данных в информационной системе персональных данных и (или) уничтожаются материальные носители персональных данных.
+
+
+
+3. Основные права и обязанности Оператора
+3.1. Оператор имеет право:
+– получать от субъекта персональных данных достоверные информацию и/или документы, содержащие персональные данные;
+– в случае отзыва субъектом персональных данных согласия на обработку персональных данных Оператор вправе продолжить обработку персональных данных без согласия субъекта персональных данных при наличии оснований, указанных в Законе о персональных данных;
+– самостоятельно определять состав и перечень мер, необходимых и достаточных для обеспечения выполнения обязанностей, предусмотренных Законом о персональных данных и принятыми в соответствии с ним нормативными правовыми актами, если иное не предусмотрено Законом о персональных данных или другими федеральными законами.
+3.2. Оператор обязан:
+– предоставлять субъекту персональных данных по его просьбе информацию, касающуюся обработки его персональных данных;
+– организовывать обработку персональных данных в порядке, установленном действующим законодательством РФ;
+– отвечать на обращения и запросы субъектов персональных данных и их законных представителей в соответствии с требованиями Закона о персональных данных;
+– сообщать в уполномоченный орган по защите прав субъектов персональных данных по запросу этого органа необходимую информацию в течение 30 дней с даты получения такого запроса;
+– публиковать или иным образом обеспечивать неограниченный доступ к настоящей Политике в отношении обработки персональных данных;
+– принимать правовые, организационные и технические меры для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения персональных данных, а также от иных неправомерных действий в отношении персональных данных;
+– прекратить передачу (распространение, предоставление, доступ) персональных данных, прекратить обработку и уничтожить персональные данные в порядке и случаях, предусмотренных Законом о персональных данных;
+– исполнять иные обязанности, предусмотренные Законом о персональных данных.
+
+
+
+4. Основные права и обязанности субъектов персональных данных
+4.1. Субъекты персональных данных имеют право:
+– получать информацию, касающуюся обработки его персональных данных, за исключением случаев, предусмотренных федеральными законами. Сведения предоставляются субъекту персональных данных Оператором в доступной форме, и в них не должны содержаться персональные данные, относящиеся к другим субъектам персональных данных, за исключением случаев, когда имеются законные основания для раскрытия таких персональных данных. Перечень информации и порядок ее получения установлен Законом о персональных данных;
+– требовать от оператора уточнения его персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, неточными, незаконно полученными или не являются необходимыми для заявленной цели обработки, а также принимать предусмотренные законом меры по защите своих прав;
+– выдвигать условие предварительного согласия при обработке персональных данных в целях продвижения на рынке товаров, работ и услуг;
+– на отзыв согласия на обработку персональных данных;
+– обжаловать в уполномоченный орган по защите прав субъектов персональных данных или в судебном порядке неправомерные действия или бездействие Оператора при обработке его персональных данных;
+– на осуществление иных прав, предусмотренных законодательством РФ.
+4.2. Субъекты персональных данных обязаны:
+– предоставлять Оператору достоверные данные о себе;
+– сообщать Оператору об уточнении (обновлении, изменении) своих персональных данных.
+4.3. Лица, передавшие Оператору недостоверные сведения о себе, либо сведения о другом субъекте персональных данных без согласия последнего, несут ответственность в соответствии с законодательством РФ.
+
+
+
+5. Оператор может обрабатывать следующие персональные данные Пользователя
+5.1. Фамилия, имя, отчество.
+5.2. Электронный адрес.
+5.3. Номера телефонов.
+5.4. Год, месяц, дата и место рождения.
+5.5. Реквизиты документа, удостоверяющего личность.
+5.6. Также на сайте происходит сбор и обработка обезличенных данных о посетителях (в т.ч. файлов «cookie») с помощью сервисов интернет-статистики (Яндекс Метрика и Гугл Аналитика и других).
+5.7. Вышеперечисленные данные далее по тексту Политики объединены общим понятием Персональные данные.
+5.8. Обработка специальных категорий персональных данных, касающихся расовой, национальной принадлежности, политических взглядов, религиозных или философских убеждений, интимной жизни, Оператором не осуществляется.
+5.9. Обработка персональных данных, разрешенных для распространения, из числа специальных категорий персональных данных, указанных в ч. 1 ст. 10 Закона о персональных данных, допускается, если соблюдаются запреты и условия, предусмотренные ст. 10.1 Закона о персональных данных.
+5.10. Согласие Пользователя на обработку персональных данных, разрешенных для распространения, оформляется отдельно от других согласий на обработку его персональных данных. При этом соблюдаются условия, предусмотренные, в частности, ст. 10.1 Закона о персональных данных. Требования к содержанию такого согласия устанавливаются уполномоченным органом по защите прав субъектов персональных данных.
+5.10.1 Согласие на обработку персональных данных, разрешенных для распространения, Пользователь предоставляет Оператору непосредственно.
+5.10.2 Оператор обязан в срок не позднее трех рабочих дней с момента получения указанного согласия Пользователя опубликовать информацию об условиях обработки, о наличии запретов и условий на обработку неограниченным кругом лиц персональных данных, разрешенных для распространения.
+5.10.3 Передача (распространение, предоставление, доступ) персональных данных, разрешенных субъектом персональных данных для распространения, должна быть прекращена в любое время по требованию субъекта персональных данных. Данное требование должно включать в себя фамилию, имя, отчество (при наличии), контактную информацию (номер телефона, адрес электронной почты или почтовый адрес) субъекта персональных данных, а также перечень персональных данных, обработка которых подлежит прекращению. Указанные в данном требовании персональные данные могут обрабатываться только Оператором, которому оно направлено.
+5.10.4 Согласие на обработку персональных данных, разрешенных для распространения, прекращает свое действие с момента поступления Оператору требования, указанного в п. 5.10.3 настоящей Политики в отношении обработки персональных данных.
+
+
+
+6. Принципы обработки персональных данных
+6.1. Обработка персональных данных осуществляется на законной и справедливой основе.
+6.2. Обработка персональных данных ограничивается достижением конкретных, заранее определенных и законных целей. Не допускается обработка персональных данных, несовместимая с целями сбора персональных данных.
+6.3. Не допускается объединение баз данных, содержащих персональные данные, обработка которых осуществляется в целях, несовместимых между собой.
+6.4. Обработке подлежат только персональные данные, которые отвечают целям их обработки.
+6.5. Содержание и объем обрабатываемых персональных данных соответствуют заявленным целям обработки. Не допускается избыточность обрабатываемых персональных данных по отношению к заявленным целям их обработки.
+6.6. При обработке персональных данных обеспечивается точность персональных данных, их достаточность, а в необходимых случаях и актуальность по отношению к целям обработки персональных данных. Оператор принимает необходимые меры и/или обеспечивает их принятие по удалению или уточнению неполных или неточных данных.
+6.7. Хранение персональных данных осуществляется в форме, позволяющей определить субъекта персональных данных, не дольше, чем этого требуют цели обработки персональных данных, если срок хранения персональных данных не установлен федеральным законом, договором, стороной которого, выгодоприобретателем или поручителем по которому является субъект персональных данных. Обрабатываемые персональные данные уничтожаются либо обезличиваются по достижении целей обработки или в случае утраты необходимости в достижении этих целей, если иное не предусмотрено федеральным законом.
+
+
+
+7. Цели обработки персональных данных
+7.1. Цель обработки персональных данных Пользователя:
+– информирование Пользователя посредством отправки электронных писем;
+– предоставление доступа Пользователю к сервисам, информации и/или материалам, содержащимся на веб-сайте https://gettsleep.com.
+
+7.2. Также Оператор имеет право направлять Пользователю уведомления о новых продуктах и услугах, специальных предложениях и различных событиях. Пользователь всегда может отказаться от получения информационных сообщений, направив Оператору письмо на адрес электронной почты privacy@gettsleep.com с пометкой «Отказ от уведомлений о новых продуктах и услугах и специальных предложениях».
+7.3. Обезличенные данные Пользователей, собираемые с помощью сервисов интернет-статистики, служат для сбора информации о действиях Пользователей на сайте, улучшения качества сайта и его содержания.
+
+
+
+8. Правовые основания обработки персональных данных
+8.1. Правовыми основаниями обработки персональных данных Оператором являются:
+– уставные (учредительные) документы Оператора;
+– договоры, заключаемые между оператором и субъектом персональных данных;
+– Федеральный Закон № 152-ФЗ «О персональных данных» от 27.07.2006 г.;
+
+– федеральные законы, иные нормативно-правовые акты в сфере защиты персональных данных;
+– согласия Пользователей на обработку их персональных данных, на обработку персональных данных, разрешенных для распространения.
+8.2. Оператор обрабатывает персональные данные Пользователя только в случае их заполнения и/или отправки Пользователем самостоятельно через специальные формы, расположенные на сайте https://gettsleep.com или направленные Оператору посредством электронной почты. Заполняя соответствующие формы и/или отправляя свои персональные данные Оператору, Пользователь выражает свое согласие с данной Политикой.
+8.3. Оператор обрабатывает обезличенные данные о Пользователе в случае, если это разрешено в настройках браузера Пользователя (включено сохранение файлов «cookie» и использование технологии JavaScript).
+8.4. Субъект персональных данных самостоятельно принимает решение о предоставлении его персональных данных и дает согласие свободно, своей волей и в своем интересе.
+
+
+
+9. Условия обработки персональных данных
+9.1. Обработка персональных данных осуществляется с согласия субъекта персональных данных на обработку его персональных данных.
+9.2. Обработка персональных данных необходима для достижения целей, предусмотренных международным договором Российской Федерации или законом, для осуществления возложенных законодательством Российской Федерации на оператора функций, полномочий и обязанностей.
+9.3. Обработка персональных данных необходима для осуществления правосудия, исполнения судебного акта, акта другого органа или должностного лица, подлежащих исполнению в соответствии с законодательством Российской Федерации об исполнительном производстве.
+9.4. Обработка персональных данных необходима для исполнения договора, стороной которого либо выгодоприобретателем или поручителем по которому является субъект персональных данных, а также для заключения договора по инициативе субъекта персональных данных или договора, по которому субъект персональных данных будет являться выгодоприобретателем или поручителем.
+9.5. Обработка персональных данных необходима для осуществления прав и законных интересов оператора или третьих лиц либо для достижения общественно значимых целей при условии, что при этом не нарушаются права и свободы субъекта персональных данных.
+9.6. Осуществляется обработка персональных данных, доступ неограниченного круга лиц к которым предоставлен субъектом персональных данных либо по его просьбе (далее – общедоступные персональные дан
+ые).
+9.7. Осуществляется обработка персональных данных, подлежащих опубликованию или обязательному раскрытию в соответствии с федеральным законом.
+
+
+
+10. Порядок сбора, хранения, передачи и других видов обработки персональных данных
+Безопасность персональных данных, которые обрабатываются Оператором, обеспечивается путем реализации правовых, организационных и технических мер, необходимых для выполнения в полном объеме требований действующего законодательства в области защиты персональных данных.
+10.1. Оператор обеспечивает сохранность персональных данных и принимает все возможные меры, исключающие доступ к персональным данным неуполномоченных лиц.
+10.2. Персональные данные Пользователя никогда, ни при каких условиях не будут переданы третьим лицам, за исключением случаев, связанных с исполнением действующего законодательства либо в случае, если субъектом персональных данных дано согласие Оператору на передачу данных третьему лицу для исполнения обязательств по гражданско-правовому договору.
+10.3. В случае выявления неточностей в персональных данных, Пользователь может актуализировать их самостоятельно, путем направления Оператору уведомление на адрес электронной почты Оператора privacy@gettsleep.com с пометкой «Актуализация персональных данных».
+10.4. Срок обработки персональных данных определяется достижением целей, для которых были собраны персональные данные, если иной срок не предусмотрен договором или действующим законодательством.
+Пользователь может в любой момент отозвать свое согласие на обработку персональных данных, направив Оператору уведомление посредством электронной почты на электронный адрес Оператора privacy@gettsleep.com с пометкой «Отзыв согласия на обработку персональных данных».
+10.5. Вся информация, которая собирается сторонними сервисами, в том числе платежными системами, средствами связи и другими поставщиками услуг, хранится и обрабатывается указанными лицами (Операторами) в соответствии с их Пользовательским соглашением и Политикой конфиденциальности. Субъект персональных данных и/или Пользователь обязан самостоятельно своевременно ознакомиться с указанными документами. Оператор не несет ответственность за действия третьих лиц, в том числе указанных в настоящем пункте поставщиков услуг.
+10.6. Установленные субъектом персональных данных запреты на передачу (кроме предоставления доступа), а также на обработку или условия обработки (кроме получения доступа) персональных данных, разрешенных для распространения, не действуют в случаях обработки персональных данных в государственных, общественных и иных публичных интересах, определенных законодательством РФ.
+10.7. Оператор при обработке персональных данных обеспечивает конфиденциальность персональных данных.
+10.8. Оператор осуществляет хранение персональных данных в форме, позволяющей определить субъекта персональных данных, не дольше, чем этого требуют цели обработки персональных данных, если срок хранения персональных данных не установлен федеральным законом, договором, стороной которого, выгодоприобретателем или поручителем по которому является субъект персональных данных.
+10.9. Условием прекращения обработки персональных данных может являться достижение целей обработки персональных данных, истечение срока действия согласия субъекта персональных данных или отзыв согласия субъектом персональных данных, а также выявление неправомерной обработки персональных данных.
+
+
+
+11. Перечень действий, производимых Оператором с полученными персональными данными
+11.1. Оператор осуществляет сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (распространение, предоставление, доступ), обезличивание, блокирование, удаление и уничтожение персональных данных.
+11.2. Оператор осуществляет автоматизированную обработку персональных данных с получением и/или передачей полученной информации по информационно-телекоммуникационным сетям или без таковой.
+
+
+
+12. Трансграничная передача персональных данных
+12.1. Оператор до начала осуществления трансграничной передачи персональных данных обязан убедиться в том, что иностранным государством, на территорию которого предполагается осуществлять передачу персональных данных, обеспечивается надежная защита прав субъектов персональных данных.
+12.2. Трансграничная передача персональных данных на территории иностранных государств, не отвечающих вышеуказанным требованиям, может осуществляться только в случае наличия согласия в письменной форме субъекта персональных данных на трансграничную передачу его персональных данных и/или исполнения договора, стороной которого является субъект персональных данных.
+
+
+
+13. Конфиденциальность персональных данных
+Оператор и иные лица, получившие доступ к персональным данным, обязаны не раскрывать третьим лицам и не распространять персональные данные без согласия субъекта персональных данных, если иное не предусмотрено федеральным законом.
+
+
+14. Заключительные положения
+14.1. Пользователь может получить любые разъяснения по интересующим вопросам, касающимся обработки его персональных данных, обратившись к Оператору с помощью электронной почты privacy@gettsleep.com.
+14.2. В данном документе будут отражены любые изменения политики обработки персональных данных Оператором. Политика действует бессрочно до замены ее новой версией.
+14.3. Актуальная версия Политики в свободном доступе расположена в сети Интернет по адресу https://gettsleep.com/privacy.";"Policy on the processing of personal data
+
+1 General provisions
+This policy of processing of personal data is made according to requirements of the Federal law from 27.07.2006. №152-ФЗ ""About personal data"" (hereinafter - the Law about personal data) and defines an order of processing of personal data and measures on maintenance of safety of personal data, undertaken by ""Conception of rest DME"" LLC (hereinafter - the Operator).
+1.1 The Operator's most important goal and condition for its activities is the observance of human and civil rights and freedoms in the processing of personal data, including the protection of rights to privacy, personal and family secrets.
+1.2 This Operator's personal data processing policy (the ""Policy"") applies to all information that the Operator may receive about visitors to the https://gettsleep.com website.
+
+2 Basic concepts used in this Policy
+2.1 Automated processing of personal data - processing of personal data by means of computer technology.
+2.2 Blocking of personal data - temporary suspension of processing of personal data (except in cases where processing is necessary to clarify personal data).
+2.3 Website means a set of graphic and information materials, as well as computer programs and databases, ensuring their availability on the Internet at https://gettsleep.com network address.
+2.4 Personal data information system is an aggregate of personal data contained in databases, and information technologies and technical means, ensuring processing of personal data.
+2.5. De-identification of personal data - actions, as a result of which it is impossible to determine, without using additional information, the attribution of personal data to a specific User or other subject of personal data.
+2.6 Processing of personal data - any action (operation) or set of actions (operations) performed with or without the use of automation means with personal data, including collection, recording, systematization, accumulation, storage, clarification (updating, modification), extraction, use, transfer (distribution, provision, access), anonymization, blocking, deletion, destruction of personal data.
+2.7 Operator - a state body, municipal authority, legal entity or individual, independently or together with other persons, arranging and (or) carrying out processing of personal data, as well as determining the purpose of personal data processing, composition of personal data to be processed, actions (operations) performed with personal data.
+2.8 Personal data - any information relating directly or indirectly to a particular or defined User of the website https://gettsleep.com.
+2.9. Personal data, allowed by the subject of personal data for distribution - personal data, access to which is provided by the subject of personal data by giving consent to the processing of personal data, allowed the subject of personal data for distribution in the manner prescribed by law on personal data (hereinafter - personal data, allowed for distribution).
+2.10. User - any visitor to https://gettsleep.com.
+2.11. Provision of personal data - actions aimed at disclosure of personal data to a certain person or a certain circle of persons.
+2.12. Distribution of personal data - any action aimed at disclosure of personal data to an indefinite range of persons (transfer of personal data) or to familiarize an unlimited number of persons with personal data, including publication of personal data in the media, posting in information and telecommunications networks or providing access to personal data in any other way.
+2.13. Cross-border transfer of personal data - transfer of personal data to the territory of a foreign state to a foreign state authority, foreign natural person or foreign legal entity.
+2.14. Destruction of personal data - any action, as a result of which personal data is destroyed irretrievably with impossibility to further restore the content of personal data in the information system of personal data and (or) material media of personal data are destroyed.
+3. basic rights and obligations of the operator
+3.1 The operator has the right:
+- to obtain from the subject of personal data reliable information and/or documents containing personal data;
+- In case the personal data subject withdraws their consent to the processing of personal data, the operator has the right to continue the processing of personal data without the consent of the personal data subject on the grounds set out in the Personal Data Law;
+- Independently determine the composition and list of measures necessary and sufficient to ensure the fulfilment of the obligations provided by the Personal Data Law and the regulations adopted in accordance therewith, unless otherwise provided by the Personal Data Law or other federal laws.
+3.2 The operator shall:
+- provide the personal data subject, at his or her request, with information relating to the processing of his or her personal data;
+- Organize the processing of personal data in the manner prescribed by applicable laws of the Russian Federation;
+- respond to requests and enquiries of personal data subjects and their legal representatives, in accordance with the requirements of the Personal Data Law
+- Notify the authority responsible for the protection of the rights of subjects of personal data, at the request of this body, the necessary information within 30 days from the date of receipt of such request
+- publish or otherwise ensure unrestricted access to this Policy on personal data processing
+- Take legal, organizational and technical measures to protect personal data from unauthorized or accidental access, destruction, modification, blocking, copying, provision, distribution of personal data, as well as other unlawful acts in relation to personal data
+- Cease the transfer (distribution, provision, access) of personal data, stop processing and destroy personal data in the manner and cases provided by the Personal Data Law
+- Perform other duties provided by the Personal Data Law.
+4 Basic rights and obligations of subjects of personal data
+4.1 Personal data subjects have the right:
+- To receive information relating to the processing of their personal data, except in the cases provided for by federal laws. The information is provided to the subject of personal data by the operator in an accessible form, and it must not contain personal data relating to other subjects of personal data, except in cases where there are legitimate grounds for disclosure of such personal data. The list of information and the procedure for obtaining it are set out in the Personal Data Law;
+- to require the operator to clarify his personal data, to block or destroy it if the personal data is incomplete, outdated, inaccurate, illegally obtained or is not necessary for the stated purpose of processing, and to take statutory measures to protect his rights;
+- to condition prior consent when processing personal data for the purpose of promoting goods, works and services on the market
+- to withdraw the consent to the processing of personal data
+- to appeal to the authorized body for the protection of the rights of subjects of personal data or in court against unlawful acts or omissions of the operator in the processing of his personal data
+- To exercise other rights provided by the legislation of the Russian Federation.
+4.2 Personal data subjects shall
+- Provide the Operator with accurate data about themselves;
+- Inform the operator of the clarification (updating, modification) of their personal data.
+4.3 Persons who provided the Operator with inaccurate information about themselves, or information about another subject of personal data without the consent of the latter, shall be liable in accordance with the laws of the Russian Federation.
+5. The operator may process the following personal data of the User
+5.1 Last name, first name, middle name.
+5.2 E-mail address.
+Phone numbers. 5.3.
+5.4 Year, month, date and place of birth
+Details of the identification document. 5.5.
+5.6 Website also collects and processes impersonal data about visitors (including cookies) using Internet statistic services (Yandex Metrika and Google Analytics and others).
+5.7 The above-mentioned data are hereinafter referred to in this Policy as Personal Data.
+5.8 The Operator shall not process any special categories of personal data relating to race, ethnicity, political views, religious or philosophical beliefs or intimate life.
+5.9 Processing of personal data, authorised for dissemination, from among the special categories of personal data specified in Part 1 of Article 10 of the Personal Data Law, is allowed, if the prohibitions and conditions stipulated in Article 10.1 of the Personal Data Law are observed.
+5.10 The User's consent to the processing of personal data which is authorised for dissemination shall be formalised separately from other consents to the processing of their personal data. The conditions stipulated, in particular, by Article 10.1 of the Personal Data Law shall be complied with. The requirements for the content of such consent shall be established by the competent authority for the protection of personal data subjects.
+5.10.1 The consent for the processing of personal data, which is permitted for distribution, shall be given by the User directly to the Operator.
+5.10.2 The Operator shall, within three working days from the receipt of the above consent of the User, publish information about the processing conditions, prohibitions and conditions on the processing of personal data permitted for distribution to an unlimited number of persons.
+5.10.3 The transfer (dissemination, provision, access) of personal data, authorised by the personal data subject for dissemination, must be stopped at any time at the request of the personal data subject. This request must include the surname, first name, patronymic (if any), contact information (telephone number, e-mail address or postal address) of the personal data subject, as well as a list of personal data whose processing is to be terminated. The personal data specified in this request may only be processed by the Operator to whom it is sent.
+5.10.4 Consent to the processing of personal data authorised for dissemination shall cease upon receipt by the Operator of the request referred to in clause 5.10.3 of this Policy for the processing of personal data.
+6. Principles of personal data processing
+6.1 Processing of personal data shall be lawful and fair.
+6.2 Processing of personal data shall be limited to achieving specific, predetermined and legitimate objectives. No processing of personal data which is incompatible with the purposes for which the personal data is collected shall be permitted.
+6.3 Databases containing personal data that are processed for purposes that are incompatible with each other shall not be merged.
+6.4 Only personal data that meets the purposes for which it is being processed shall be processed.
+6.5 The content and scope of personal data processed shall comply with the stated processing purposes. Processed personal data shall not be excessive in relation to the stated processing purposes. 6.6.
+6.6 When processing personal data, the accuracy of personal data, its sufficiency, and, where necessary, relevance in relation to the purpose of personal data processing shall be ensured. The Operator shall take necessary measures and/or ensure that incomplete or inaccurate data is removed or clarified.
+6.7 Personal data shall be stored in a form that allows identification of the personal data subject for no longer than the purposes of personal data processing require, unless the storage period of personal data is established by federal law, an agreement to which the personal data subject is a party, a beneficiary or a guarantor. Processed personal data shall be destroyed or depersonalised upon attainment of the processing objectives or if it is no longer necessary to attain those objectives, unless otherwise provided by federal law.
+
+
+
+7. Purposes of processing of personal data
+7.1 The purpose of processing of personal data of the User:
+- Informing the User by sending emails;
+- giving the User access to the services, information and/or materials contained on the https://gettsleep.com website.
+
+7.2 The Operator shall also be entitled to send the User notifications about new products and services, special offers and various events. The User can always refuse receiving information messages by sending an email to the Operator at privacy@gettsleep.com with the note ""Unsubscribe from notifications about new products and services and special offers.
+7.3 The anonymised User data collected by means of Internet statistics services are used to collect information about the User's activities on the website and to improve the quality of the website and its contents.
+
+
+
+8. Legal basis for the processing of personal data
+8.1 The legal basis for the processing of personal data by the operator are
+- The statutory (constituent) documents of the Operator;
+- Contracts concluded between the operator and the subject of personal data;
+- Federal Law No. 152-FZ of 27.07.2006 ""On Personal Data
+
+- Federal Laws, other regulations in the sphere of personal data protection;
+- The User's consent to the processing of their personal data, and to the processing of personal data allowed for disclosure.
+8.2. The operator processes the User's personal data only if they are filled in and/or sent by the User himself via special forms located on the website https://gettsleep.com or sent to the Operator by e-mail. By filling in the relevant forms and/or sending his personal data to the Operator, the User expresses his consent to this Policy.
+8.3. The Operator processes anonymised data about the User if this is permitted in the User's browser settings (cookie saving and the use of JavaScript technology are enabled).
+8.4 The subject of personal data shall independently decide on the provision of their personal data and give consent freely, willingly and in their own interest.
+9. Conditions for the processing of personal data
+9.1 Processing of personal data shall be subject to the consent of the personal data subject to the processing of their personal data.
+9.2 Processing of personal data is necessary for achievement of the objectives envisaged by an international treaty of the Russian Federation or by law, for implementation of the functions, powers and duties imposed on the operator by the legislation of the Russian Federation.
+9.3. Processing of personal data is necessary for administration of justice, execution of a judicial act, act of another body or official to be executed in accordance with the legislation of the Russian Federation on enforcement proceedings.
+9.4 Processing of personal data shall be necessary for execution of an agreement, a party to which or a beneficiary or guarantor under which the personal data subject is a party, as well as for conclusion of an agreement on the initiative of the personal data subject or an agreement, under which the personal data subject will be a beneficiary or guarantor.
+9.5 Processing of personal data is necessary for the exercise of the rights and legitimate interests of the operator or third parties, or to achieve socially important objectives, provided that this does not violate the rights and freedoms of the personal data subject.
+9.6 Processing of personal data, to which access has been granted by or at the request of the data subject (hereinafter ""publicly available personal data"").
+9.7 Processing of personal data subject to publication or compulsory disclosure in accordance with federal law.
+
+
+
+10. Procedure for collection, storage, transfer and other processing of personal data
+The security of personal data, processed by the Operator, shall be ensured by implementing legal, organisational and technical measures, necessary for the full implementation of the requirements of applicable laws in the field of protection of personal data.
+10.1. The operator ensures the safety of personal data and takes all possible measures, which exclude access to personal data by unauthorised persons.
+10.2 The personal data of the User will never, under no circumstances be transferred to third parties, except in cases related to the execution of the applicable laws or if the personal data subject has given their consent to the Operator for the transfer of data to a third party to fulfil their obligations under a civil law contract.
+10.3 If inaccuracies in the personal data are identified, the User may update the personal data themselves by sending a notification to the Operator's email address privacy@gettsleep.com, marked ""Update of personal data"".
+10.4 The time period for processing personal data is determined by the achievement of the purposes for which the personal data was collected, unless a different time period is stipulated by the contract or applicable law.
+The user may withdraw their consent to the processing of personal data at any time by sending the Operator a notice via e-mail to the Operator's e-mail address privacy@gettsleep.com marked ""Withdrawal of consent to the processing of personal data"".
+10.5 All information that is collected by third party services, including payment systems, means of communication and other service providers, is stored and processed by the said persons (Operators) in accordance with their User Agreement and Privacy Policy. The subject of personal data and/or the User is obliged to acquaint themselves with the said documents in due time. The Operator shall not be liable for the actions of third parties, including the service providers referred to in this clause.
+10.6 The prohibitions established by the personal data subject on the transfer (other than granting access) as well as on the processing or processing conditions (other than gaining access) of personal data permitted for distribution shall not apply in cases of processing of personal data in state, public and other public interests as defined by Russian legislation.
+10.7. The Operator shall ensure the confidentiality of personal data when processing personal data.
+10.8. The operator shall store personal data in a form enabling the identification of the personal data subject, for no longer than is required by the purposes of personal data processing, unless the period of storage of personal data is set by federal law, an agreement to which the personal data subject is a party, a beneficiary or a guarantor under which the personal data subject is a beneficiary.
+10.9 A condition for termination of personal data processing may be the achievement of the personal data processing objectives, expiry of the personal data subject's consent or withdrawal of consent by the personal data subject, as well as detection of unlawful processing of personal data.
+11. List of Actions Conducted by the Operator with Personal Data Received
+11.1. The operator collects, records, systematises, accumulates, stores, clarifies (updates, changes), extracts, uses, transfers (distribution, provision, access), depersonalises, blocks, deletes and destroys personal data.
+11.2 The Operator shall carry out automated processing of personal data with or without the receipt and/or transmission of received information via information and telecommunications networks.
+
+
+
+12. cross-border transfer of personal data
+12.1 The operator is obliged to make sure that the foreign country, on the territory of which the personal data transfer is supposed to be carried out, provides reliable protection of the personal data subjects' rights before the start of the trans-border transfer of personal data.
+12.2 The transborder transfer of personal data to foreign countries, which do not comply with the above requirements, may take place only if the personal data subject consents in writing to the transborder transfer of his/her personal data and/or to the performance of the contract, to which the personal data subject is a party.
+
+
+
+13. Confidentiality of personal data
+The operator and other persons who obtained access to personal data are obliged not to disclose to third parties and not to distribute personal data without consent of the personal data subject, unless otherwise provided by federal law.
+
+
+14. Final provisions
+14.1 The User may obtain any clarifications on questions of interest regarding the processing of their personal data by contacting the Operator by e-mail at privacy@gettsleep.com.
+14.2 This document will reflect any changes to the personal data processing policy of the Operator. The Policy is valid indefinitely until replaced by a new version.
+14.3. The current version of the Policy is freely available on the Internet at https://gettsleep.com/privacy.";"个人数据处理政策
+
+1 一般规定
+这项处理个人数据的政策是根据2006年7月27日的联邦法律要求制定的。№152-ФЗ ""关于个人数据""（以下简称--个人数据法），规定了个人数据的处理顺序和维护个人数据安全的措施，由 ""Conception of rest DME ""有限责任公司（以下简称--运营商）承担。
+1.1 经营者最重要的目标和活动条件是在处理个人数据时遵守人权和公民权利和自由，包括保护隐私权、个人和家庭秘密的权利。
+1.2 本经营者的个人数据处理政策（""政策""）适用于经营者可能收到的所有关于https://gettsleep.com 网站访客的信息。
+2 本政策中使用的基本概念
+2.1 个人数据的自动处理 - 通过计算机技术处理个人数据。
+2.2 阻止个人数据 - 暂时停止处理个人数据（为澄清个人数据而必须处理的情况除外）。
+2.3 网站是指一套图形和信息材料，以及计算机程序和数据库，确保其在互联网上的可用性，https://gettsleep.com 网络地址。
+2.4 个人数据信息系统是包含在数据库中的个人数据以及信息技术和技术手段的集合，确保个人数据的处理。
+
+2.6 个人数据的处理 - 使用或不使用自动化手段对个人数据进行的任何行动（操作）或一组行动（操作），包括收集、记录、系统化、积累、储存、澄清（更新、修改）、提取、使用、转移（分发、提供、访问）、匿名化、阻止、删除、销毁个人数据。
+2.7 操作者 - 国家机构、市政当局、法律实体或个人，独立或与其他人一起，安排和（或）进行个人数据处理，以及确定个人数据处理的目的、要处理的个人数据的组成、使用个人数据进行的行动（操作）。
+2.8 个人数据 - 任何直接或间接与网站https://gettsleep.com 的特定或确定用户有关的信息。
+2.9.个人数据，允许个人数据主体分发 - 个人数据，通过同意处理个人数据，允许个人数据主体以法律规定的方式分发的个人数据（以下简称 - 个人数据，允许分发）的访问。
+2.10. 用户 - 任何访问https://gettsleep.com。
+2.11.个人数据的提供 - 旨在向某人或某一圈人披露个人数据的行动。
+2.12.个人数据的分发 - 任何旨在向不确定范围的人披露个人数据（个人数据的转移）或使无限数量的人熟悉个人数据的行动，包括在媒体上公布个人数据，在信息和电信网络上张贴或以任何其他方式提供个人数据的访问。
+2.13.个人数据的跨境转移--将个人数据转移到外国境内，交给外国国家机关、外国自然人或外国法律实体。
+2.14.个人数据的销毁 - 任何行动，其结果是个人数据被不可逆转地销毁，无法进一步恢复个人数据信息系统中的个人数据内容和（或）个人数据的物质媒介被销毁
+
+3.经营者的基本权利和义务
+3.1 经营者有权利：
+- 从个人资料的主体获得可靠的信息和/或包含个人资料的文件。
+- 如果个人数据主体撤回其对个人数据处理的同意，经营者有权根据《个人数据法》规定的理由，在未经个人数据主体同意的情况下继续处理个人数据。
+- 独立确定必要和足够的措施的构成和清单，以确保履行《个人数据法》和根据该法通过的条例规定的义务，除非《个人数据法》或其他联邦法律另有规定。
+3.2 经营者应：
+- 应个人数据主体的要求，向其提供与处理其个人数据有关的信息。
+- 按照俄罗斯联邦适用法律规定的方式组织个人数据的处理。
+- 根据《个人资料法》的要求，对个人资料主体及其法律代表的要求和查询作出回应
+- 应负责保护个人数据主体权利的机构的要求，在收到该机构的要求之日起30天内通知该机构必要的信息
+- 公布或以其他方式确保不受限制地访问本个人数据处理政策
+- 采取法律、组织和技术措施，保护个人数据免受未经授权或意外的访问、破坏、修改、封锁、复制、提供、分发个人数据，以及与个人数据有关的其他非法行为的影响
+- 按照《个人数据法》规定的方式和情况，停止转移（分发、提供、访问）个人数据，停止处理和销毁个人数据
+- 履行《个人数据法》规定的其他职责。
+4 个人数据主体的基本权利和义务
+4.1 个人数据主体有权利：
+- 接收与处理其个人数据有关的信息，联邦法律规定的情况除外。该信息由经营者以可获取的形式提供给个人数据主体，且不得包含与其他个人数据主体有关的个人数据，除非有合法理由披露这些个人数据。信息清单和获取信息的程序在《个人数据法》中有所规定。
+- 要求经营者澄清他的个人数据，如果个人数据不完整、过时、不准确、非法获得或对所述处理目的没有必要，则阻止或销毁该数据，并采取法定措施保护其权利。
+- 为在市场上推广商品、工程和服务而处理个人数据时，以事先同意为条件。
+- 撤回对个人数据处理的同意。
+- 对经营者在处理其个人数据时的非法行为或不行为，向保护个人数据主体权利的授权机构或法院提出上诉。
+- 行使俄罗斯联邦法律规定的其他权利。
+4.2 个人数据主体应
+- 向操作员提供有关他们自己的准确数据。
+- 通知经营者对其个人数据的澄清（更新、修改）。
+4.3 向经营者提供有关自己的不准确信息，或未经另一个人数据主体同意的信息的人，应根据俄罗斯联邦法律承担责任。
+5. 经营者可以处理用户的以下个人数据
+5.1 姓，名，中名。
+5.2 电子邮件地址。
+电话号码。 5.3.
+5.4 出生的年、月、日和地点
+身份证明文件的细节。 5.5.
+5.6 网站还使用互联网统计服务（Yandex Metrika和Google Analytics及其他）收集和处理非个人访问者的数据（包括cookies）。
+5.7 上述数据在本政策中被称为个人数据。
+5.8 经营者不得处理任何有关种族、民族、政治观点、宗教或哲学信仰或亲密生活的特殊类别的个人数据。
+5.9 如果遵守《个人数据法》第10条第1部分规定的特殊类别的个人数据，允许处理经授权传播的个人数据，但必须遵守《个人数据法》第10.1条规定的禁止和条件。
+5.10 用户对授权传播的个人数据处理的同意应与对其个人数据处理的其他同意分开正式确定。应遵守特别是《个人数据法》第10.1条规定的条件。对这种同意的内容的要求应由保护个人数据主体的主管部门来确定。
+5.10.1 对个人数据处理的同意，允许分发，应由用户直接向经营者提供。
+5.10.2 经营者应在收到用户的上述同意后的三个工作日内，公布有关处理条件、禁止事项和允许向不限人数的个人数据处理条件的信息。
+5.10.3 经个人数据主体授权传播的个人数据的转移（传播、提供、访问），必须在任何时候应个人数据主体的要求停止。该请求必须包括个人数据主体的姓、名、父名（如有）、联系信息（电话号码、电子邮件地址或邮政地址），以及需要终止处理的个人数据清单。本请求中规定的个人数据只能由接受该请求的经营者处理。
+5.10.4 对授权传播的个人数据处理的同意应在经营者收到本政策第5.10.3条所述的个人数据处理请求时停止。
+6. 个人数据处理的原则
+6.1 个人数据的处理应是合法和公平的。
+6.2 个人数据的处理应限于实现特定的、预先确定的和合法的目标。不允许对个人数据的处理与收集个人数据的目的不相符。
+6.3 包含个人数据的数据库，如果处理的目的不一致，则不应合并。
+6.4 只有符合处理目的的个人数据才会被处理。
+6.5 处理的个人数据的内容和范围应符合所述的处理目的。所处理的个人数据相对于所述的处理目的而言不应过度。 6.6.
+6.6 在处理个人数据时，应确保个人数据的准确性、充分性，并在必要时确保与个人数据处理的目的相关。经营者应采取必要措施和/或确保不完整或不准确的数据被删除或澄清。
+6.7 个人资料应以能够识别个人资料主体的形式保存，时间不超过个人资料处理目的所要求的时间，除非联邦法律、个人资料主体为一方的协议、受益人或担保人规定了个人资料的保存期限。除非联邦法律另有规定，经过处理的个人数据应在处理目标实现后或不再需要实现这些目标的情况下被销毁或去个人化。
+
+
+
+7. 处理个人数据的目的
+7.1 处理用户个人数据的目的。
+- 通过发送电子邮件通知用户。
+- 让用户访问https://gettsleep.com 网站上的服务、信息和/或材料。
+
+7.2 经营者还有权向用户发送关于新产品和服务、特别优惠和各种活动的通知。用户可以随时通过发送电子邮件给运营商，privacy@gettsleep.com，并注明 ""退订关于新产品和服务以及特别优惠的通知 ""来拒绝接收信息邮件。
+7.3 通过互联网统计服务收集的匿名用户数据，用于收集用户在网站上的活动信息，并提高网站及其内容的质量。
+
+
+
+8. 处理个人数据的法律依据
+8.1 经营者处理个人数据的法律依据是
+- 运营商的法定（组成）文件。
+- 经营者与个人数据主体之间签订的合同。
+- 2006年7月27日第152-FZ号 ""关于个人数据 ""的联邦法律
+
+- 联邦法律，个人数据保护领域的其他法规。
+- 用户同意对其个人数据进行处理，并同意对允许披露的个人数据进行处理。
+8.2.经营者只有在用户自己通过位于网站https://gettsleep.com 的特殊表格填写和/或发送或通过电子邮件发送给经营者时，才会处理用户的个人数据。通过填写相关表格和/或发送他的个人数据给经营者，用户表示他同意本政策。
+8.3 如果用户的浏览器设置允许，经营者会处理关于用户的匿名数据（启用cookie保存和使用JavaScript技术）。
+8.4 个人资料的主体应独立决定其个人资料的提供，并自由、自愿和符合其自身利益地给予同意。
+9. 处理个人数据的条件
+9.1 个人数据的处理应征得个人数据主体对其个人数据处理的同意。
+9.2 为实现俄罗斯联邦国际条约或法律规定的目标，为执行俄罗斯联邦法律赋予经营者的职能、权力和义务，有必要处理个人数据。
+9.3.个人数据的处理对于司法管理、执行司法行为、另一机构或官员的行为是必要的，要根据俄罗斯联邦关于执行程序的立法来执行。
+9.4 个人数据的处理对于执行协议是必要的，个人数据主体是协议的一方或受益人或担保人，以及在个人数据主体的倡议下缔结协议或协议，个人数据主体将是受益人或担保人。
+9.5 为了行使经营者或第三方的权利和合法利益，或为了实现社会上的重要目标，有必要处理个人数据，但这不能侵犯个人数据主体的权利和自由。
+9.6 处理个人数据，这些数据是由数据主体授权或应数据主体的要求进行访问的（以下简称 ""公开的个人数据""）。
+9.7 根据联邦法律，对个人数据的处理应予公布或强制披露。
+
+
+
+10. 收集、储存、转移和其他处理个人数据的程序
+经营者处理的个人数据的安全，应通过实施法律、组织和技术措施来保证，这些措施是充分执行保护个人数据领域的适用法律要求所必需的。
+10.1. 经营者确保个人数据的安全，并采取一切可能的措施，排除未经授权的人对个人数据的访问。
+10.2 用户的个人数据在任何情况下都不会被转移给第三方，除非是与执行适用法律有关的情况，或者是个人数据主体同意经营者将数据转移给第三方以履行民法合同的义务。
+10.3 如果发现个人数据有不准确的地方，用户可以自己更新个人数据，向经营者的电子邮件地址 privacy@gettsleep.com 发送通知，标明 ""更新个人数据""。
+10.4 处理个人数据的时间段由收集个人数据的目的的实现决定，除非合同或适用法律规定了不同的时间段。
+用户可以在任何时候撤回他们对个人数据处理的同意，通过电子邮件向经营者的电子邮件地址privacy@gettsleep.com，并注明 ""撤回对个人数据处理的同意""，向经营者发出通知。
+10.5 所有由第三方服务收集的信息，包括支付系统、通信手段和其他服务提供商，都由上述人员（运营商）根据其用户协议和隐私政策进行存储和处理。个人资料的主体和/或用户有义务在适当的时候了解上述文件。经营者不对第三方的行为负责，包括本条款中提到的服务提供商。
+10.6 个人数据主体对允许分发的个人数据的转移（除授予访问权外）以及处理或处理条件（除获得访问权外）所确立的禁令，不适用于俄罗斯立法规定的为国家、公共和其他公共利益处理个人数据的情况。
+10.7.经营者在处理个人数据时应确保个人数据的保密性。
+10.8 经营者应以能够识别个人数据主体的形式存储个人数据，存储时间不得超过个人数据处理目的所需的时间，除非联邦法律、个人数据主体为一方的协议、受益人或个人数据主体为受益人的担保人规定了个人数据的存储期限。
+10.9 终止个人数据处理的条件可能是实现了个人数据处理的目标，个人数据主体的同意到期或个人数据主体撤回同意，以及发现对个人数据的非法处理。
+11. 经营者对收到的个人数据所采取的行动清单
+11.1. 经营者收集、记录、系统化、积累、储存、澄清（更新、改变）、提取、使用、转移（分发、提供、访问）、去个性化、封锁、删除和销毁个人数据。
+11.2 经营者应通过信息和电信网络对个人数据进行自动处理，无论是否接收和/或传输收到的信息。
+
+
+
+12.个人数据的跨国界转移
+12.1 经营者有义务在个人数据跨境转移开始前，确保在其境内进行个人数据转移的外国对个人数据主体的权利提供可靠的保护。
+12.2 只有在个人数据主体书面同意跨境转移他/她的个人数据和/或履行个人数据主体为一方的合同的情况下，才能将个人数据转移到不符合上述要求的外国。
+
+
+
+13. 个人数据的保密性
+经营者和其他获得个人数据的人有义务不向第三方披露，未经个人数据主体的同意不分发个人数据，除非联邦法律另有规定。
+
+
+14. 最后规定
+14.1 用户可以通过电子邮件联系经营者，privacy@gettsleep.com，以获得任何有关其个人数据处理的利益问题的澄清。
+14.2 本文件将反映经营者的个人数据处理政策的任何变化。该政策无限期有效，直到被新版本取代。
+14.3. 当前版本的政策可在互联网上免费获得，网址是：https://gettsleep.com/privacy。"

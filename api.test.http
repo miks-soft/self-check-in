@@ -1,0 +1,90 @@
+GET {{baseUrl}}/localization/locales
+Accept: application/json
+Accept-Language: zh
+Host: localhost
+Origin: localhost
+Authorization: {{token}}
+#####
+
+GET {{baseUrl}}/localization/texts
+Accept: application/json
+Accept-Language: ru
+Authorization: {{token}}
+###
+
+GET {{baseUrl}}/rooms/find
+Accept: application/json
+Content-Type: application/json
+Accept-Language: ru
+Authorization: {{token}}
+
+{"dateIn": "2022-02-28 17:00:00", "dateOut": "2022-02-28 20:00:00"}
+###
+
+GET {{baseUrl}}/paysystems
+Accept: application/json
+Accept-Language: en
+Authorization: {{token}}
+###
+
+PUT {{baseUrl}}/booking
+Accept: application/json
+Content-Type: application/json
+Accept-Language: en
+Authorization: {{token}}
+
+{
+    "contact": {
+        "name": "Petr",
+        "last_name": "Great",
+        "date_of_birth": "1901-01-01",
+        "phone": "1234567",
+        "email": "dsbdxbt@rdsbdbt.com"
+    },
+    "paysystem": 1,
+    "rooms": [
+        {
+            "id": 1,
+            "count": 1,
+            "dateIn": "2022-03-08 17:00:00",
+            "dateOut": "2022-03-08 20:00:00"
+        }
+    ]
+}
+###
+
+GET {{baseUrl}}/booking/payment/status
+Accept: application/json
+Content-Type: application/json
+Accept-Language: ru
+Authorization: {{token}}
+
+{"bookingId" : 51}
+###
+
+POST {{baseUrl}}/booking/print
+Accept: application/json
+Content-Type: application/json
+Accept-Language: ru
+Authorization: {{token}}
+
+{"bookingId" : 1}
+###
+
+GET {{baseUrl}}/booking/print/status
+Accept: application/json
+Content-Type: application/json
+Accept-Language: ru
+Authorization: {{token}}
+
+{"commandId" : "fvfrvrr"}
+###
+
+POST {{baseUrl}}/booking/cancel
+Accept: application/json
+Content-Type: application/json
+Accept-Language: ru
+Authorization: {{token}}
+
+{"bookingId" : 51}
+###
